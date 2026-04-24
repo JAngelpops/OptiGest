@@ -1,0 +1,2 @@
+C:/Users/acost/1/inventario/android/app/.cxx/Debug/2u704s04/x86/CMakeFiles/edit_cache.dir
+C:/Users/acost/1/inventario/android/app/.cxx/Debug/2u704s04/x86/CMakeFiles/rebuild_cache.dir

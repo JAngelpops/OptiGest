@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "184956622503",
+    "project_id": "divi-pro-c63b1",
+    "storage_bucket": "divi-pro-c63b1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184956622503:android:8db40403d3d9669dd2ad82",
+        "android_client_info": {
+          "package_name": "com.divipro.OptiGest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184956622503-kq97q88lmb1ecrlvsl3gl5d9pdtp75c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Siv-iH2w6zEw7Kub1BoF5Y5HGRjDjdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184956622503-kq97q88lmb1ecrlvsl3gl5d9pdtp75c4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "184956622503-2clan6el4fid5oj9hqiatrf4tppl4tgq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.divirpor.Opiuta"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:184956622503:android:a45d2c5a0421a123d2ad82",
+        "android_client_info": {
+          "package_name": "com.example.inventario"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "184956622503-kq97q88lmb1ecrlvsl3gl5d9pdtp75c4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-Siv-iH2w6zEw7Kub1BoF5Y5HGRjDjdk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "184956622503-kq97q88lmb1ecrlvsl3gl5d9pdtp75c4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "184956622503-2clan6el4fid5oj9hqiatrf4tppl4tgq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.divirpor.Opiuta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
